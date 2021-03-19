@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T03:36:29.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="YzoCDB8Cakk2loQIQ4L8" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T03:40:22.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ilOAu0BJAoYR8KQ9Ymk4" version="14.4.8" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
-    <mxGraphModel dx="1778" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
             <mxPoint x="481.2392980368828" y="154.54545454545453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-84" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Time_Series_Insights_Environments.svg;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=1;fillColor=none;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-84" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Time_Series_Insights_Environments.svg;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=1;fillColor=none;direction=east;flipH=0;flipV=0;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
           <mxGeometry x="479.47072398990304" y="138.1818181818182" width="55.44479637281541" height="56.27281058571956" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-87" value="Fake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">

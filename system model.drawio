@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T01:54:19.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="f_2U-94fnV_yP0pDwXsH" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T03:20:41.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="e5KJ3PYEiA5XPuBY1ty1" version="14.4.8" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
-    <mxGraphModel dx="889" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-133" value="" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="373.4130035093726" y="-148.83999999999992" as="sourcePoint" />
-            <mxPoint x="373.3" y="-229.5" as="targetPoint" />
+            <mxPoint x="373" y="-218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-134" value="" style="endArrow=none;html=1;strokeWidth=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
@@ -269,7 +269,7 @@
           <mxGeometry x="307.9190414328665" y="74.54545454545456" width="107.88301686576523" height="72.72727272727272" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-70" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Descriminator&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
-          <mxGeometry x="339.7533742785022" y="149.27272727272728" width="48.1936427801984" height="18.18181818181818" as="geometry" />
+          <mxGeometry x="339.7533742785022" y="147.27272727272728" width="48.1936427801984" height="18.18181818181818" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-73" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Time series signal&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Time_Series_Insights_environments.svg;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=1;fillColor=none;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
           <mxGeometry x="143.10207276878305" y="12.909090909090907" width="55.147354374005175" height="56.27281058571956" as="geometry" />
@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-92" value="Generator loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
-          <mxGeometry x="308.80332845635644" y="194" width="97.27157258388668" height="18.18181818181818" as="geometry" />
+          <mxGeometry x="308.80332845635644" y="195" width="97.27157258388668" height="18.18181818181818" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-95" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=14;" edge="1" parent="-Suf6a2pRYcpRoqIGUqc-105">
           <mxGeometry x="-9.539999999999992" y="10" width="50" height="50" as="geometry">
@@ -1739,7 +1739,7 @@
           <mxGeometry x="733.0200000000001" y="-645.0799999999999" width="77.52999999999986" height="21.589999999999918" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-599" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;L6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;rotation=0;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-633">
-          <mxGeometry y="1.5899999999999181" width="22.05" height="20" as="geometry" />
+          <mxGeometry x="-1" y="-0.41000000000008185" width="22.05" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-628" value="&lt;font style=&quot;font-size: 14px&quot;&gt;S3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-633">
           <mxGeometry x="33.979999999999905" width="43.55" height="21.18" as="geometry" />
@@ -1831,48 +1831,6 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-561" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;GRU module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="226.97040349196212" y="-732.5" width="90.00496823875936" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-677" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10.001929805883817" y="-930" width="238.7980701941162" height="307.52" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-658" value="L7: High FPR &amp;amp; Overfitting issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-677">
-          <mxGeometry y="170.5" width="224.81280386103126" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-676" value="" style="group" vertex="1" connectable="0" parent="-Suf6a2pRYcpRoqIGUqc-677">
-          <mxGeometry x="2.998070194116183" width="235.8" height="307.52" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-663" value="S1: TimeGAN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="5.376547231270359" y="197.49" width="119.25424309960569" height="30.05" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: Periodic features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry y="224.5" width="178.11328647351277" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-646" value="L1: Class imbalance&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry width="169.3006000342877" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-647" value="L2: RUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="4.934329271067167" y="22.5" width="71.72924367864137" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-648" value="L3: ROS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="8.227454712975433" y="43.5" width="64.73564241997386" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-654" value="L4: SMOTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="2.0212583576204337" y="63.5" width="102.75066860963484" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Extracted periodic feature from 1D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="3.350278944625187" y="91.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-657" value="L6: Extracted periodic feature from 2D weekly data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="4.355993952950983" y="128.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-674" value="S3: Periodic features (weekly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="3.3552888736499233" y="246" width="232.4447111263501" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-675" value="S4: Dropout layers and batch normalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="1.7382821875535734" y="275.5" width="232.4447111263501" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-670" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=1;gradientColor=none;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-676">
-          <mxGeometry x="-6.548877078690212" width="238.99358820504028" height="307.52" as="geometry" />
-        </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-678" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="-270" width="202.6" height="70" as="geometry" />
         </mxCell>
@@ -1938,6 +1896,42 @@
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-689" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;Data imbalance module&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-698">
           <mxGeometry x="56.849999999999994" y="9.600000000000023" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-670" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=1;gradientColor=none;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9.35112292130978" y="-931.02" width="238.99358820504028" height="307.52" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-658" value="L7: High FPR &amp;amp; Overfitting issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="10.001929805883817" y="-759.5" width="224.81280386103126" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-663" value="S1: TimeGAN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="18.376547231270358" y="-732.51" width="119.25424309960569" height="30.05" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: Periodic features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-705.5" width="178.11328647351277" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-646" value="L1: Class imbalance&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-930" width="169.3006000342877" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-647" value="L2: RUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="17.934329271067167" y="-907.5" width="71.72924367864137" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-648" value="L3: ROS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="21.227454712975433" y="-886.5" width="64.73564241997386" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-654" value="L4: SMOTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="15.021258357620434" y="-866.5" width="102.75066860963484" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Extract periodic feature from 1D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="7.350278944625188" y="-838.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-657" value="L6: Extract periodic feature from 2D weekly data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="8.355993952950982" y="-801.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-674" value="S3: Periodic features (weekly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="16.355288873649922" y="-684" width="232.4447111263501" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-675" value="S4: Dropout layers and batch normalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="14.738282187553573" y="-654.5" width="232.4447111263501" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

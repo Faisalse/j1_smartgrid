@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T01:38:01.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ykhcBcYPPpLD3INVpobR" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T01:41:34.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ioZ47JdgwqiQNfz0RTrN" version="14.4.8" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
     <mxGraphModel dx="889" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1654,8 +1654,8 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-562" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=1;glass=0;sketch=0;fillColor=#FF6666;gradientColor=none;fontSize=12;fontColor=#FFFFFF;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="796.86" y="-897.53" width="31.61" height="253.45" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-563" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;CNN module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="779.3000000000001" y="-790.5" width="101.45" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-563" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;GoogleNet module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="775.68" y="-782.12" width="120.7" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-564" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=1;glass=0;sketch=0;fillColor=#FF6666;gradientColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="273" y="-990" width="43.3" height="115" as="geometry" />
@@ -1726,8 +1726,8 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-617" value="&lt;font color=&quot;#000000&quot;&gt;GRU&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;sub&gt;h&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420.8" y="-878.94" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-618" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;vertical-align: sub ; font-size: 12px&quot;&gt;CNN&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;sub&gt;h&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="587.8" y="-913.5" width="40" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-618" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font&gt;&lt;span style=&quot;vertical-align: sub ; font-size: 12px&quot;&gt;GoogleNet&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;sub&gt;h&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="594.1" y="-917.53" width="68.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-619" value="&lt;font color=&quot;#000000&quot;&gt;Output with sigmoid function&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="397.49999999999994" y="-1077" width="113" height="20" as="geometry" />
@@ -1769,12 +1769,12 @@
           <mxGeometry y="1.5899999999999181" width="22.05" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-642" value="&lt;font style=&quot;font-size: 14px&quot;&gt;S4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-640">
-          <mxGeometry x="33.979999999999905" width="43.55" height="21.18" as="geometry" />
+          <mxGeometry x="33.979999999999905" y="2" width="43.55" height="21.18" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-643" value="" style="endArrow=classic;html=1;strokeWidth=1;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="-Suf6a2pRYcpRoqIGUqc-640">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="18.29999999999984" y="11.499999999999886" as="sourcePoint" />
-            <mxPoint x="47.749999999999886" y="11.999999999999886" as="targetPoint" />
+            <mxPoint x="18.29999999999984" y="13.499999999999886" as="sourcePoint" />
+            <mxPoint x="47.749999999999886" y="13.999999999999886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-644" value="" style="group;strokeColor=#000000;dashed=1;" vertex="1" connectable="0" parent="1">
@@ -1909,7 +1909,7 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-692" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=1;glass=0;dashed=1;sketch=0;fillColor=none;gradientColor=none;fontSize=12;fontColor=#FFFFFF;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="-559" width="51" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-693" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;GRU &amp;amp; Inception module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-693" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;GRU &amp;amp; GoogleNet modules&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="66.85" y="-516.5" width="135.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-697" value="" style="group" vertex="1" connectable="0" parent="1">

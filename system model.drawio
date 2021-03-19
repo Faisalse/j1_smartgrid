@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T03:21:47.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ebqFx0_NYq_S4Ob32ANz" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T03:35:57.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="hW5Y7liSiNRW3KC62yku" version="14.4.8" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
-    <mxGraphModel dx="1778" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1827,6 +1827,9 @@
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-120" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=1;glass=0;sketch=0;strokeWidth=1;fontSize=14;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-644">
           <mxGeometry x="117.86999999999995" y="20.159999999999997" width="24.5" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-701" value="Normalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="-Suf6a2pRYcpRoqIGUqc-644">
+          <mxGeometry x="203.28" y="18.16" width="96.72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-561" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;GRU module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="226.97040349196212" y="-732.5" width="90.00496823875936" height="20.000000000000004" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T04:20:02.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GlQ-5YK3-Ae8nSqJ-vne" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T04:21:20.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8EfpebgzAwdMM6cuhdnU" version="14.4.9" type="github">
   <diagram id="rlney8qnDPTpGGBJszyf" name="Page-1">
     <mxGraphModel dx="1718" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -410,13 +410,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-2" value="L1: Class imbalance problem&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
-          <mxGeometry x="512" y="664.31" width="250" height="7.24" as="geometry" />
+          <mxGeometry x="512" y="671.31" width="250" height="7.24" as="geometry" />
         </mxCell>
-        <mxCell id="GY7WVB8zKEkzgFbaJLlC-3" value="L2: High FPR due to non-anamolus factors&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
-          <mxGeometry x="507.5" y="686.81" width="300" height="20" as="geometry" />
+        <mxCell id="GY7WVB8zKEkzgFbaJLlC-3" value="L2: RUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
+          <mxGeometry x="505.5" y="686.81" width="112.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GY7WVB8zKEkzgFbaJLlC-4" value="L3: Information loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
-          <mxGeometry x="509.5" y="715" width="183" height="20" as="geometry" />
+        <mxCell id="GY7WVB8zKEkzgFbaJLlC-4" value="L3: ROS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
+          <mxGeometry x="508.5" y="710" width="110.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-5" value="L4, L5: Over fitting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
           <mxGeometry x="504.5" y="734" width="188" height="20" as="geometry" />
@@ -428,7 +428,7 @@
           <mxGeometry x="527.25" y="775" width="207.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;dashed=1;strokeColor=#67AB9F;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
-          <mxGeometry x="519.5" y="645" width="277.5" height="160" as="geometry" />
+          <mxGeometry x="493" y="477.65999999999997" width="277.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;dashed=1;strokeColor=#67AB9F;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
           <mxGeometry x="519.5" y="842.59" width="277.5" height="87.41" as="geometry" />

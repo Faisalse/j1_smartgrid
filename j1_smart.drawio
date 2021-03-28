@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T11:35:26.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4U_wTbZu2brc5eW-xwt6" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T19:01:17.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GfPD9dzCRYX7e0-nhnYS" version="14.5.3" type="github">
   <diagram id="rlney8qnDPTpGGBJszyf" name="Page-1">
     <mxGraphModel dx="2586" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -443,16 +443,16 @@
           <mxGeometry x="12.06123388581952" width="272.68876611418045" height="110.34999999999997" as="geometry" />
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-18" value="&lt;font color=&quot;#00cc00&quot;&gt;S1: TimeGAN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="H_9JEBCbwgkG-Kj0ROQV-5" vertex="1">
-          <mxGeometry x="7.341620626151013" y="3.499999999999999" width="133.72237569060772" height="19.999999999999996" as="geometry" />
+          <mxGeometry x="11" y="3.5" width="121.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GY7WVB8zKEkzgFbaJLlC-19" value="&lt;font color=&quot;#00cc00&quot;&gt;S2: Periodic features (1D data)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="H_9JEBCbwgkG-Kj0ROQV-5" vertex="1">
-          <mxGeometry x="6.817219152854512" y="25.500000000000107" width="257.7433241252302" height="19.999999999999996" as="geometry" />
+          <mxGeometry x="3.817219152854512" y="25.500000000000107" width="257.7433241252302" height="19.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="H_9JEBCbwgkG-Kj0ROQV-3" value="&lt;font color=&quot;#00cc00&quot;&gt;S3: Periodic features (2D data)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="H_9JEBCbwgkG-Kj0ROQV-5" vertex="1">
-          <mxGeometry x="7.866022099447513" y="46.86000000000012" width="257.7433241252302" height="19.999999999999996" as="geometry" />
+          <mxGeometry x="3.8660220994475134" y="46.86000000000012" width="257.7433241252302" height="19.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="H_9JEBCbwgkG-Kj0ROQV-4" value="&lt;font color=&quot;#00cc00&quot;&gt;S4: Dropout &amp;amp; Batch Normalization layers&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="H_9JEBCbwgkG-Kj0ROQV-5" vertex="1">
-          <mxGeometry x="16.25644567219153" y="76.22000000000013" width="272.68876611418045" height="19.999999999999996" as="geometry" />
+          <mxGeometry x="10.256445672191528" y="76.22000000000013" width="272.68876611418045" height="19.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="H_9JEBCbwgkG-Kj0ROQV-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;L7&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BNO793dq0efcTPLe7xES-134" vertex="1">
           <mxGeometry x="387" y="722.7719837691616" width="27" height="19.56717763751127" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T05:34:39.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="X3Njl9AocBpGOLP4jhi5" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T05:37:52.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="R6-Lkf1Z9WFrNyibm44D" version="14.6.6" type="github">
   <diagram id="287CBgsqJr-suc5dQBP1" name="Page-1">
     <mxGraphModel dx="868" dy="2625" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,10 +100,10 @@
         <mxCell id="LU8-xw11yKQ6b2Q469gx-28" value="Balanced data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="159.63" y="-211.46" width="80.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LU8-xw11yKQ6b2Q469gx-29" value="" style="group;strokeColor=#CCCCFF;container=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-29" value="" style="group;container=0;strokeColor=#1EB6FF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="180" y="-240" width="119.88" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LU8-xw11yKQ6b2Q469gx-80" value="" style="group;strokeColor=#CCCCFF;container=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-80" value="" style="group;container=0;strokeColor=#3399FF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="181" y="-471" width="503" height="210" as="geometry" />
         </mxCell>
         <mxCell id="LU8-xw11yKQ6b2Q469gx-81" value="" style="group;strokeColor=#CCCCFF;container=0;" vertex="1" connectable="0" parent="1">
@@ -343,7 +343,7 @@
         <mxCell id="LU8-xw11yKQ6b2Q469gx-94" value="Flatten layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="582.99" y="-418" width="97.01" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="LU8-xw11yKQ6b2Q469gx-125" value="" style="group;strokeColor=#CCCCFF;container=0;rotation=-180;" vertex="1" connectable="0" parent="1">
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-125" value="" style="group;container=0;rotation=-180;strokeColor=#3333FF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="181" y="-708" width="503" height="225" as="geometry" />
         </mxCell>
         <mxCell id="LU8-xw11yKQ6b2Q469gx-164" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -468,6 +468,9 @@
             <mxPoint x="877" y="-1159" as="sourcePoint" />
             <mxPoint x="876.9099999999999" y="-1249.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-172" value="Extracted features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="585.99" y="-526" width="86.49" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

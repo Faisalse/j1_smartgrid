@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T05:46:36.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="29CN4GBHJERYDTjPyF-G" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T05:51:21.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="s0mWak8zFzDEpq3rliCR" version="14.6.6" type="github">
   <diagram id="287CBgsqJr-suc5dQBP1" name="Page-1">
     <mxGraphModel dx="868" dy="1525" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
             <mxPoint x="100.91000000000008" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LU8-xw11yKQ6b2Q469gx-91" value="Pass data to CNN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=-90;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-91" value="Pass data to AlexNet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=-90;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
           <mxGeometry x="-57" y="367" width="135" height="18" as="geometry" />
         </mxCell>
         <mxCell id="LU8-xw11yKQ6b2Q469gx-76" value="" style="group" vertex="1" connectable="0" parent="LU8-xw11yKQ6b2Q469gx-173">
@@ -469,8 +469,11 @@
         <mxCell id="LU8-xw11yKQ6b2Q469gx-172" value="Extracted features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;rotation=-90;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
           <mxGeometry x="405.99" y="182" width="86.49" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="LU8-xw11yKQ6b2Q469gx-175" value="AdaBoost learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-175" value="AdaBoost classifier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
           <mxGeometry x="-3.42" y="200" width="134.86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LU8-xw11yKQ6b2Q469gx-176" value="Data preprocessing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=14;" vertex="1" parent="LU8-xw11yKQ6b2Q469gx-173">
+          <mxGeometry x="159.63" y="476.53999999999996" width="109.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

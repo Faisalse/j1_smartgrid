@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T11:22:35.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ax85Z450Vb94465AjnNq" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T07:06:40.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="U4XBiL5TjnANt-PJkKF-" version="14.6.6" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1906,11 +1906,11 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-658" value="L7: High FPR &amp;amp; Overfitting issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="10.001929805883817" y="-759.5" width="224.81280386103126" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-663" value="S1: TimeGAN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="18.376547231270358" y="-732.51" width="119.25424309960569" height="30.05" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-663" value="S1: TLSGAN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="16.376547231270358" y="-732.51" width="119.25424309960569" height="30.05" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: Periodic features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="13" y="-705.5" width="178.11328647351277" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: Temporal features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="15" y="-705.5" width="178.11328647351277" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-646" value="L1: Class imbalance&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12" y="-930" width="169.3006000342877" height="20" as="geometry" />
@@ -1924,11 +1924,11 @@
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-654" value="L4: SMOTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="14.021258357620434" y="-866.5" width="102.75066860963484" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Extract periodic feature from 1D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="7.350278944625188" y="-838.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Extract temporal features from 1D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="13.350278944625188" y="-838.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-657" value="L6: Extract periodic feature from 2D weekly data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="8.355993952950982" y="-801.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-657" value="L6: Extract periodic features from 2D weekly data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="11.355993952950982" y="-801.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-674" value="S3: Periodic features (weekly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="16.355288873649922" y="-684" width="232.4447111263501" height="20" as="geometry" />
@@ -1986,6 +1986,9 @@
         </mxCell>
         <mxCell id="iGnAqJ7KnPxStgVuZTll-24" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=#00CC00;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="17.75" y="-179.5" width="167.25" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk0KH_ivkxsQE3g5-WuC-1" value="&lt;font color=&quot;#000000&quot;&gt;Hybrid layer&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;glass=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="548" y="-955" width="111" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T12:05:47.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="oXOIiZl_T61x3dRYrWw1" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T14:19:15.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="ZWzMt0ViFVBioL4_cjGy" version="14.9.6" type="github">
   <diagram id="W8FQsuZDM7uOI04a6WdN" name="Page-1">
-    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1901,40 +1901,34 @@
           <mxGeometry x="56.849999999999994" y="9.600000000000023" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-670" value="" style="whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=1;strokeColor=#000000;strokeWidth=1;gradientColor=none;fontSize=12;fontColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9.35112292130978" y="-931.02" width="238.99358820504028" height="307.52" as="geometry" />
+          <mxGeometry x="3.35" y="-931.02" width="250.65" height="261.02" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-658" value="L7: High FPR &amp;amp; Overfitting issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="10.001929805883817" y="-759.5" width="224.81280386103126" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-658" value="L6: High FPR &amp;amp; Overfitting issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-3.2280701941161833" y="-796.5" width="224.81280386103126" height="20.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-663" value="S1: TimeGAN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="16.376547231270358" y="-732.51" width="119.25424309960569" height="30.05" as="geometry" />
+          <mxGeometry x="7.926547231270359" y="-762.55" width="119.25424309960569" height="30.05" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: Temporal features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="15" y="-705.5" width="178.11328647351277" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-664" value="S2: GoogLeNet and GRU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="5" y="-735.94" width="204.18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Suf6a2pRYcpRoqIGUqc-646" value="L1: Class imbalance&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="12" y="-930" width="169.3006000342877" height="20" as="geometry" />
+          <mxGeometry x="5" y="-930" width="169.3006000342877" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-647" value="L2: RUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="16.934329271067167" y="-907.5" width="71.72924367864137" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-647" value="L2: Information loss due to RUS&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="9.93" y="-909.5" width="243.07" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-648" value="L3: ROS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="21.227454712975433" y="-886.5" width="64.73564241997386" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-648" value="L3: Data duplication due toROS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="13" y="-886.5" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-654" value="L4: SMOTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="14.021258357620434" y="-866.5" width="102.75066860963484" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-654" value="L4: Overfitting due to SMOTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="6" y="-866.5" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Extract temporal features from 1D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="13.350278944625188" y="-838.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-656" value="L5: Curse of dimensionality issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-1.2997210553748122" y="-834.56" width="227.20237935209656" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-657" value="L6: Extract periodic features from 2D weekly data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="11.355993952950982" y="-801.5" width="227.20237935209656" height="20.000000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-674" value="S3: Periodic features (weekly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="16.355288873649922" y="-684" width="232.4447111263501" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-Suf6a2pRYcpRoqIGUqc-675" value="S4: Dropout layers and batch normalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="14.738282187553573" y="-654.5" width="232.4447111263501" height="20" as="geometry" />
+        <mxCell id="-Suf6a2pRYcpRoqIGUqc-675" value="S3: Dropout layers and batch normalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="10.78" y="-706.5" width="218.44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iGnAqJ7KnPxStgVuZTll-10" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;L1, L2, L3, L4&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="12.75" y="-179.84" width="104" height="20" as="geometry" />
